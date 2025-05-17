@@ -15,6 +15,7 @@ env:
   discord_avatar_url: https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png
   discord_username: Github-Actions
   discord_webhook_url: ${{ secrets.discord_webhook_url }}
+  discord_content_color: 5793266
   github_actor_message: ""
   github_workflow_ref_name: ${{ github.workflow_ref }}
 
@@ -141,6 +142,6 @@ jobs:
           curl_files=''; i=0; for f in github-action-run*; do curl_files=${curl_files}" -F file[$i]=@${f}";i=$((i+1));done;
           curl -X POST \
             -H 'Content-Type:multipart/form-data' \
-            -F 'payload_json={"avatar_url":"${{ env.discord_avatar_url }}","username":"${{ env.discord_username }}","embeds":[{"color":5793266,"fields":[{"name":"Launched github action","value":"Repository: [${{ github.repository }}](${{ github.server_url }}/${{ github.repository }}/actions/workflows/${{ env.github_workflow_ref_name }})."},{"name":"","value":"workflow: ${{ github.workflow }}"},{"name":"","value":"[${{ env.github_actor_message }}](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})"}]}]}' \
+            -F 'payload_json={"avatar_url":"${{ env.discord_avatar_url }}","username":"${{ env.discord_username }}","embeds":[{"color":${{ env.discord_content_color }},"fields":[{"name":"Launched github action","value":"Repository: [${{ github.repository }}](${{ github.server_url }}/${{ github.repository }}/actions/workflows/${{ env.github_workflow_ref_name }})."},{"name":"","value":"workflow: ${{ github.workflow }}"},{"name":"","value":"[${{ env.github_actor_message }}](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})"}]}]}' \
             ${curl_files} \
             ${{ env.discord_webhook_url }} | jq; \
