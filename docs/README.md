@@ -4,7 +4,7 @@
 
 ## Activity
 
-- Timezone: Asia/Japan Tokyo(UTC +09:00)  
+- Timezone: Asia/Japan Tokyo,Osaka(UTC +09:00)  
 - Homepage: [n138-kz.github.io](https://n138-kz.github.io/)  
 - Youtube: [@KomiyaCh-n138](https://www.youtube.com/@KomiyaCh-n138)  
 - GitHub: [@n138-kz](https://github.com/n138-kz/)  
