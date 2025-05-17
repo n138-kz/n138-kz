@@ -11,8 +11,8 @@
 - Twitter(X): [@n138kz](https://twitter.com/n138kz)  
 - Qiita: [@YuuT_38](https://qiita.com/YuuT_38)  
 - Bluesky: [@n138kz.bsky.social](https://bsky.app/profile/n138kz.bsky.social)  
-- Minecraft [minecraft.n138.jp](https://minecraft.n138.jp)  
 - cfx: @n138kz https://cfx.re/join/v9pd6q  
+- Minecraft: [minecraft.n138.jp](https://minecraft.n138.jp)  
 
 ## License
 
