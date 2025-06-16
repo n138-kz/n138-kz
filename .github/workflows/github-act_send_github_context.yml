@@ -33,18 +33,21 @@ jobs:
         run: |
           echo '::error title=Error::Require and Has NOT Set:`discord_avatar_url`';
           echo 'check_ok=false' >> $GITHUB_ENV;
+          exit 1
 
       - name: env.discord_username
         if: ${{ env.discord_username == '' }}
         run: |
           echo '::error title=Error::Require and Has NOT Set:`discord_username`';
           echo 'check_ok=false' >> $GITHUB_ENV;
+          exit 1
 
       - name: env.discord_webhook_url
         if: ${{ env.discord_webhook_url == '' }}
         run: |
           echo '::error title=Error::Require and Has NOT Set:`discord_webhook_url`';
           echo 'check_ok=false' >> $GITHUB_ENV;
+          exit 1
 
       - name: check ok?
         if: ${{ ! env.check_ok }}
