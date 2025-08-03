@@ -19,7 +19,7 @@
 
 <div align="center">
 
-  <img src="https://github.com/n138-kz/n138-kz.github.io/blob/master/lib/LinuC_msv.webp" style="height:3em">
+  [<img src="https://github.com/n138-kz/n138-kz.github.io/blob/master/lib/LinuC_msv.webp" style="height:3em">](https://linuc.org/)
   
 </div>
 
