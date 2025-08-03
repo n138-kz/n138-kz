@@ -17,6 +17,12 @@
 - Minecraft: [minecraft.n138.jp](https://minecraft.n138.jp)  
 - Docker Hub: [@n138kz](https://hub.docker.com/u/n138kz)
 
+<div align="center">
+
+  <img src="https://github.com/n138-kz/n138-kz.github.io/blob/master/lib/LinuC_msv.webp" style="height:3em">
+  
+</div>
+
 ## License
 
 [Copyright (c) 2025 Yuu Komiya (n138)](LICENSE)  
