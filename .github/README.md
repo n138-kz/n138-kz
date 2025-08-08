@@ -16,7 +16,7 @@
 - Twitch: [YuuKomiya](https://www.twitch.tv/yuukomiya) [![](https://img.shields.io/twitch/status/YuuKomiya)](https://www.twitch.tv/yuukomiya)
 - Qiita: [@YuuT_38](https://qiita.com/YuuT_38)  
 - Bluesky: [@n138kz.bsky.social](https://bsky.app/profile/n138kz.bsky.social)
-- Discord: [!![Discord](https://img.shields.io/discord/1160802738175758367?style=social&logo=discord&label=Discord)](https://discord.gg/dEjvyYkCwf)
+- Discord: [![Discord](https://img.shields.io/discord/1160802738175758367?style=social&logo=discord&label=Discord)](https://discord.gg/dEjvyYkCwf)
 - Minecraft: [minecraft.n138.jp](https://minecraft.n138.jp)  
 - Docker Hub: [@n138kz](https://hub.docker.com/u/n138kz)
 
