@@ -20,4 +20,4 @@
 - Minecraft: [minecraft.n138.jp](https://minecraft.n138.jp)  
 - Docker Hub: [@n138kz](https://hub.docker.com/u/n138kz)
 
-[Copyright (c) 2025 Yuu Komiya (n138). Unless otherwise noted, under the MIT License](/LICENSE)  
+[Copyright (c) 2014 Yuu Komiya (n138). Unless otherwise noted, under the MIT License](/LICENSE)  
