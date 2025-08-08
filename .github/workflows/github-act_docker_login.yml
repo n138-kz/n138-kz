@@ -22,14 +22,16 @@ jobs:
         if: ${{ env.docker_credential_username == '' }}
         run: |
           echo 'check_ok=false' >> $GITHUB_ENV;
-          echo -e '::error title=Error::Require and Has NOT Set:`docker_credential_username` on vars.\n{{ github.server_url }}/{{ github.repository }/settings/variables/actions';
+          echo -e '::error title=Error::Require and Has NOT Set:`docker_credential_username` on vars.';
+          echo -e "::error title=Error::\n{{ github.server_url }}/{{ github.repository }/settings/variables/actions "
           exit 1
 
       - name: env.docker_credential_password
         if: ${{ env.docker_credential_password == '' }}
         run: |
           echo 'check_ok=false' >> $GITHUB_ENV;
-          echo -e '::error title=Error::Require and Has NOT Set:`docker_credential_password` on secrets.\n{{ github.server_url }}/{{ github.repository }/settings/secrets/actions';
+          echo -e '::error title=Error::Require and Has NOT Set:`docker_credential_password` on secrets.';
+          echo -e "::error title=Error::\n{{ github.server_url }}/{{ github.repository }/settings/secrets/actions "
           exit 1
 
       - name: check ok?
