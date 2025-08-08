@@ -14,7 +14,7 @@
 - GitHub: [@n138-kz](https://github.com/n138-kz) [![](https://img.shields.io/github/followers/n138-kz)](https://github.com/n138-kz) [.](https://api.github.com/users/n138-kz)
 - Twitter(X): [@n138kz](https://twitter.com/n138kz) [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/n138kz)](https://twitter.com/n138kz)
 - Twitch: [YuuKomiya](https://www.twitch.tv/yuukomiya) [![](https://img.shields.io/twitch/status/YuuKomiya)](https://www.twitch.tv/yuukomiya)
-- Qiita: [@YuuT_38](https://qiita.com/YuuT_38)  
+- Qiita: [@n138-kz](https://qiita.com/n138-kz)  
 - Bluesky: [@n138kz.bsky.social](https://bsky.app/profile/n138kz.bsky.social)
 - Discord: [![Discord](https://img.shields.io/discord/1160802738175758367?style=social&logo=discord&label=Discord)](https://discord.gg/dEjvyYkCwf)
 - Minecraft: [minecraft.n138.jp](https://minecraft.n138.jp)  
