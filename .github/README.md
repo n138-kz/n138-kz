@@ -11,7 +11,7 @@
 - Jobs: Infrastructure, Networking
 - Homepage: [n138-kz.github.io](https://n138-kz.github.io/)  
 - Youtube: [@KomiyaCh-n138](https://www.youtube.com/@KomiyaCh-n138) [![](https://img.shields.io/youtube/channel/subscribers/UCOX8Iv1r0V18lbOnohE7lWQ)](https://www.youtube.com/@KomiyaCh-n138)
-- GitHub: [@n138-kz](https://github.com/n138-kz) [![](https://img.shields.io/github/followers/n138-kz)](https://github.com/n138-kz)
+- GitHub: [@n138-kz](https://github.com/n138-kz) [![](https://img.shields.io/github/followers/n138-kz)](https://github.com/n138-kz) [!](https://api.github.com/users/n138-kz)
 - Twitter(X): [@n138kz](https://twitter.com/n138kz) [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/n138kz)](https://twitter.com/n138kz)
 - Twitch: [YuuKomiya](https://www.twitch.tv/yuukomiya) [![](https://img.shields.io/twitch/status/YuuKomiya)](https://www.twitch.tv/yuukomiya)
 - Qiita: [@YuuT_38](https://qiita.com/YuuT_38)  
