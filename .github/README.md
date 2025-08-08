@@ -7,7 +7,7 @@
 
 - Timezone: Asia/Japan Tokyo,Osaka(UTC +09:00)
 - Language: Ja/JP
-- Language: Js,PHP,ShellScript,Python
+- Language: <img src="https://simpleicons.org/icons/javascript.svg" style="height: 1em" />Js, <img src="https://simpleicons.org/icons/php.svg" style="height: 1em" />PHP, <img src="https://simpleicons.org/icons/javascript.svg" style="height: 1em" />ShellScript, <img src="https://simpleicons.org/icons/javascript.svg" style="height: 1em" />Python
 - Jobs: Infrastructure, Networking
 - Homepage: [n138-kz.github.io](https://n138-kz.github.io/)
 - Youtube: [@KomiyaCh-n138](https://www.youtube.com/@KomiyaCh-n138) [![](https://img.shields.io/youtube/channel/subscribers/UCOX8Iv1r0V18lbOnohE7lWQ)](https://www.youtube.com/@KomiyaCh-n138)
