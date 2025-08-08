@@ -5,7 +5,7 @@
 
 ## Activity
 
-- Timezone: Asia/Japan Tokyo,Osaka(UTC +09:00)  
+- Timezone: Asia/Japan Tokyo,Osaka(UTC +09:00)
 - Language: Ja/JP
 - Language: Js,PHP,ShellScript,Python
 - Jobs: Infrastructure, Networking
