@@ -7,7 +7,7 @@
 
 - Timezone: Asia/Japan Tokyo,Osaka(UTC +09:00)
 - Language: Ja/JP
-- Language: <img src="https://simpleicons.org/icons/javascript.svg" style="height: 1em" />Js, <img src="https://simpleicons.org/icons/php.svg" style="height: 1em" />PHP, <img src="https://simpleicons.org/icons/gnubash.svg" style="height: 1em" />ShellScript, <img src="https://simpleicons.org/icons/python.svg" style="height: 1em" />Python
+- Language: <img src="https://simpleicons.org/icons/javascript.svg" style="height: 1em" />Js, <img src="https://www.php.net/images/logos/new-php-logo.svg" style="height: 1em" />PHP, <img src="https://simpleicons.org/icons/gnubash.svg" style="height: 1em" />ShellScript, <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" style="height: 1em" />Python
 - Jobs: Infrastructure, Networking
 - Homepage: [n138-kz.github.io](https://n138-kz.github.io/)
 - Youtube: [@KomiyaCh-n138](https://www.youtube.com/@KomiyaCh-n138) [![](https://img.shields.io/youtube/channel/subscribers/UCOX8Iv1r0V18lbOnohE7lWQ)](https://www.youtube.com/@KomiyaCh-n138)
