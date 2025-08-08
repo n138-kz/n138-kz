@@ -1,7 +1,7 @@
 # [n138-kz](https://n138-kz.github.io/)
 
 [![n138-kz](https://github.com/n138-kz.png)](https://github.com/n138-kz)  
-[<img src="https://github.com/n138-kz/n138-kz.github.io/blob/main/lib/LinuC_msv.webp" style="height:3em">](https://linuc.org/)
+[<img src="https://lpi.or.jp/aboutus/images/download/LinuC_msv.png" style="height:3em">](https://linuc.org/)
 
 ## Activity
 
