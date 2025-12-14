@@ -167,3 +167,11 @@ jobs:
           name: payload
           path: payload.json
 
+      - name: Export to json
+        run: echo '${{ toJSON(github) }}' | jq -c | tee var-github.json
+
+      - name: Upload file
+        uses: actions/upload-artifact@v4
+        with:
+          name: env-github
+          path: var-github.json
